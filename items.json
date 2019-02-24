@@ -1,0 +1,62 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "name": "20 meals/month",
+      "price": 17000,
+      "imgName": "10_meals.png",
+      "sku": "sku_EYL1VOLWN0vJva"
+    },
+    {
+      "id": 2,
+      "name": "Extra protein 10 meals",
+      "price": 1000,
+      "imgName": "10_meals.png",
+      "sku": "sku_EYL1VOLWN0vJvb"
+    },
+    {
+      "id": 3,
+      "name": "Extra protein 5 meals",
+      "price": 500,
+      "imgName": "10_meals.png",
+      "sku": "sku_EYL1VOLWN0vJvc"
+    },
+    {
+      "id": 4,
+      "name": "5 meals/week",
+      "price": 4320,
+      "imgName": "10_meals.png",
+      "sku": "sku_EYL1VOLWN0vJvd"
+    },
+    {
+      "id": 5,
+      "name": "14 meals/week",
+      "price": 11340,
+      "imgName": "10_meals.png",
+      "sku": "sku_EYL1VOLWN0vJve"
+    },
+    {
+      "id": 6,
+      "name": "10 meals/week",
+      "price": 8100,
+      "imgName": "10_meals.png",
+      "sku": "sku_EYL1VOLWN0vJvt"
+    },
+    {
+      "id": 7,
+      "name": "40 meals/month",
+      "price": 30500,
+      "imgName": "10_meals.png",
+      "sku": "sku_EYL1VOLWN0vJvg"
+    }
+  ],
+  "merch": [
+    {
+      "id": 8,
+      "name": "T-Shirt",
+      "price": 1999,
+      "imgName": "Shirt.png",
+      "sku": "sku_EYL1VOLWN0vJvg"
+    }
+  ]
+}
